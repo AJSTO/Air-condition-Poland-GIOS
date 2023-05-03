@@ -29,7 +29,10 @@ Link to generated dashboard in Looker:
 [GIOŚ -AIR QUALITY MEASUREMENTS](https://lookerstudio.google.com/reporting/5b78bf5e-6211-438e-989f-c1e4ac8644b8)
 ![IMG LOOKER](https://github.com/AJSTO/Air-condition-Poland-GIOS/blob/master/images/looker.gif)
 
-## 🗒️Database created in BIGQUERY contains tables:
+## 🗒️Database created in BIGQUERY:
+
+### Database diagram:
+![DB DIAGRAM](https://github.com/AJSTO/Air-condition-Poland-GIOS/blob/master/images/database_diagram.png)
 
 ### Table station informations:
 ![IMG TABLE INFORMATIONS](https://github.com/AJSTO/Air-condition-Poland-GIOS/blob/master/images/table_station_information.png)
