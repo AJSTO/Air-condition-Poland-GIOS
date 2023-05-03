@@ -1,0 +1,5 @@
+app.log
+credentials.json
+query_to_get_data_for_looker.txt
+.DS_Store
+.idea
